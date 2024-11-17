@@ -1,7 +1,7 @@
 # BLENDED LEARNING
 # Implementation of Customer Segmentation Using K-Means Clustering
-<H3>NAME: DAKSHATA G</H3>
-<H3>REGISTER NO.: 212223240021</H3>
+<H3>NAME: DHANALAKSHMI A</H3>
+<H3>REGISTER NO.: 212223040033</H3>
 <H3>EX. NO.9</H3>
 <H3>DATE:</H3>
 
